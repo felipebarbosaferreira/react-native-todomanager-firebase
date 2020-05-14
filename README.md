@@ -39,4 +39,6 @@ const config = {
 Essas informações estão disponíveis na pagina de configurações do seu projeto Firebase.
 
 
-Obs.: Antes de rodar o comando react-native run-android, você precisa ter o emulador do Android rodando com o AVD (Android Video Device). Ou celular em debug conectado.
+Obs app.: Antes de rodar o comando react-native run-android, você precisa ter o emulador do Android rodando com o AVD (Android Video Device). Ou celular em debug conectado.
+
+Obs google assistant: Habilite o modo de teste e no celular diga: Falar com o app to do manager
