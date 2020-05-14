@@ -4,6 +4,10 @@ To Do Manager é um aplicativo para organizar suas tarefas.
 
 Projeto para estudo do React Native com integração ao Firebase
 
+### Demonstração
+
+[Veja aqui](https://www.linkedin.com/posts/felipe-barbosa-ferreira_google-assistant-firebase-react-activity-6551232545114120192-f9Az)
+
 ### Integrações
   - Firebase (auth e database)
   - Google Assistente
